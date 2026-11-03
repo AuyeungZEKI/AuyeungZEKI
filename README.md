@@ -4,9 +4,7 @@
 
 <h1> ZEKI </h1>
 
-<h3>把一件文物、一段历史、一个放不下的问题，做成可以被看见的数字体验。</h3>
-
-<p>数字媒体艺术创作者 / 研究者 · 广州美术学院硕士在读<br>做 AIGC 影像、交互与线上展览，也给自己写一点好用的小软件。</p>
+<p>数字媒体艺术创作者 / 研究者 · 广州美术学院硕士在读<br>做 AIGC 影像、交互与线上展览，设计师背景的Ai开发者。</p>
 
 <p>
   <a href="https://zengqi-zeki.top"><b>个人网站 · zengqi-zeki.top</b></a> &nbsp; / &nbsp;
@@ -26,7 +24,7 @@
 
 <br>
 
-## 01 / 精选作品
+## 01 / 研究生作品精选
 
 大多从一件器物、一段历史碎片开始。比起描述，更适合直接去看。
 
@@ -90,25 +88,6 @@
 
 <br>
 
-## 03 / 研究
-
-关注数字媒体艺术、摄影、AI 生成影像与数字文化遗产保护——也在读、在问、在试着把一件事说清楚。
-
-- **HCI International 2026（HCII 2026）论文录用** — *Fluid Cultural Exhibition Grounded in Spatial Production Theory and Generative AI: Interactive Chaozhou Wood-Carving at Bus Stops* · [PDF](https://zeki01-1386211563.cos.ap-guangzhou.myqcloud.com/document/20260320_Fluid%20Cultural%20Exhibition%20Grounded%20in%20Spatial%20Production%20Theory%20and%20Generative%20AI%20Interactive%20Chaozhou%20Wood-Carving%20at%20Bus%20Stops.pdf) · [项目仓库](https://github.com/AuyeungZEKI/Chaozhou-Wood-Cave)
-- 兴趣方向：HCI / UX · 认知心理学 · 生成式 AI · 数字策展
-
-<br>
-
-## 04 / 最近在做
-
-| 时间 | 事情 |
-| :--- | :--- |
-| 2026 | 第四届香港数字艺术设计大赛（HKDADC）二等奖 |
-| 2026-05 | 赴河南博物院、河南省文物考古研究院田野调研，筹备线上展项目 |
-| 2026-03 | HCII 2026 论文录用 |
-| 2026-02 | 加入腾讯 IEG 魔方工作室群，从事游戏运营 |
-| 2025-11 | 「漆聚一堂」AIGC 动画于广东省博物馆展出 |
-| 2025-10 | 广州美术学院学业奖学金一等奖 · 「金开杯」全国大学生创新创业大赛银奖 |
 
 <sub>更完整的经历记录在 <a href="https://zengqi-zeki.top/journal">Journal</a>。</sub>
 
@@ -117,7 +96,7 @@
 ---
 
 <div align="center">
-<p><strong>推开任意一扇门。</strong></p>
+<p><strong>点击感兴趣的部分。</strong></p>
 <p><a href="https://zengqi-zeki.top">访问个人网站 ↗</a> &nbsp; · &nbsp; <a href="https://github.com/AuyeungZEKI?tab=repositories">浏览全部仓库 ↗</a> &nbsp; · &nbsp; <a href="mailto:ozengqi@gmail.com">写信给我 ↗</a></p>
 <sub>Works are what I have made. Products are tools I made for myself. Research is what I still cannot answer.</sub>
 </div>
