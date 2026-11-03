@@ -2,7 +2,7 @@
 
 <p><sub>DIGITAL MEDIA ART × AIGC × INTERACTION</sub></p>
 
-<h1>欧阳锃骐 · Zengqi Ouyang</h1>
+<h1> ZEKI </h1>
 
 <h3>把一件文物、一段历史、一个放不下的问题，做成可以被看见的数字体验。</h3>
 
