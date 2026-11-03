@@ -15,6 +15,7 @@
 <p>
   <a href="https://zengqi-zeki.top/works"><img alt="16 selected works" src="https://img.shields.io/badge/WORKS-16-0F6B4F?style=for-the-badge&labelColor=1C1C1A" /></a>
   <a href="https://zengqi-zeki.top/products"><img alt="2 self-built products" src="https://img.shields.io/badge/PRODUCTS-2-0F6B4F?style=for-the-badge&labelColor=1C1C1A" /></a>
+  <a href="https://github.com/AuyeungZEKI/resume-interview-html-playbook"><img alt="1 AI agent skill" src="https://img.shields.io/badge/SKILLS-1-0F6B4F?style=for-the-badge&labelColor=1C1C1A" /></a>
   <a href="https://zengqi-zeki.top/research"><img alt="HCII 2026 paper accepted" src="https://img.shields.io/badge/HCII-2026-0F6B4F?style=for-the-badge&labelColor=1C1C1A" /></a>
 </p>
 
@@ -88,6 +89,15 @@
 
 <br>
 
+## 03 / 给 AI 写的 Skill
+
+把自己反复做的事，整理成 AI 智能体可以直接调用的工作流。开源，装进 WorkBuddy 即可使用。
+
+| Skill | 做什么 | 形式 · 方法 | 从这里开始 |
+| :--- | :--- | :--- | :--- |
+| **简历面试手册**<br><sub>Resume Interview Playbook</sub> | 面试前：简历 + JD 生成定制面试手册（JD 匹配矩阵、简历追问防守地图、自我介绍、高频问答、场景案例）；面试后：逐字稿生成复盘（失分诊断、修复规则、回答重写、下一轮预测） | WorkBuddy Skill · 单文件离线 HTML · 证据分级，不编造简历之外的数据 | [源码 · 安装](https://github.com/AuyeungZEKI/resume-interview-html-playbook) |
+
+<br>
 
 <sub>更完整的经历记录在 <a href="https://zengqi-zeki.top/journal">Journal</a>。</sub>
 
